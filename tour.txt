@@ -1,0 +1,28 @@
+====== TOURNAME ======
+
+===== Background =====
+
+===== Overview =====
+
+==== Setlist ====
+
+
+
+==== Shows ====
+
+Should be seperated into EU and NA shows
+
+==== Shows ====
+{|
+! style="text-align:center; border:none; width:12em; background-color:#F8147230"| DATE
+! style="text-align:center; border:none; width:10em; background-color:#F8147230"| LOCATION
+! style="text-align:center; border:none; width:16em; background-color:#F8147230"| VENUE
+|-
+|style="text-align:center; border:none;"|DATE
+|style="text-align:center; border:none;"|CITY AND STATE OR CONTRY
+|style="text-align:center; border:none;"|VENUE NAME
+|-
+! style="text-align:center; border:none; background-color:#F8147230"|
+|style="text-align:center; border:none; background-color:#F8147230"|
+|style="text-align:center; border:none; background-color:#F8147230"|
+|}

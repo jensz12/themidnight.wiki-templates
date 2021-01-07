@@ -1,0 +1,30 @@
+====== TRACKNAME ======
+
+===== Track info =====
+
+
+===== Track listing =====
+{|
+! style="text-align:left; border:none; background-color:#F8147230"| #
+! style="border:none; background-color:#F8147230""| Title
+! style="border:none; background-color:#F8147230""| Length
+|-
+|style="border:none;"|1.
+|style="border:none;"|TRACKNAME
+|style="text-align:right; border:none;"|TIME
+|-
+|style="border:none;"|2.
+|style="border:none;"|TRACKNAME
+|style="text-align:right; border:none;"|TIME
+|-
+|style="border:none;"|3.
+|style="border:none;"|TRACKNAME
+|style="text-align:right; border:none;"|TIME
+|-
+! style="border:none; background-color:#F8147230"|
+|style="text-align:right; border:none; background-color:#F8147230""|Total Length
+|style="text-align:right; border:none; background-color:#F8147230""|**TIME**
+|}
+
+
+===== Lyrics =====
